@@ -1,4 +1,4 @@
-# BlackFridayDataset_EDA-FeatureEngineering
+# BlackFriday Data
 
 ## Overview:
 We have Zomata Data containing detailed information of partenered restaurants in different countries. The dataframe contains of different variables which we will be working on are mentioned below:
