@@ -43,6 +43,6 @@ We have Black Friday Customer Data containing detailed information of purchase s
 
 ## Observations:
 - Purchasing of men is higher than women. 
-- "Product_Category_1" is bought the most.
+- "Product_Category_1" is bought the most by the customers.
 
 
