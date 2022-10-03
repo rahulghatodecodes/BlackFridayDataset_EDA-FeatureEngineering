@@ -1,22 +1,21 @@
 # BlackFriday Data
 
 ## Overview:
-We have Zomata Data containing detailed information of partenered restaurants in different countries. The dataframe contains of different variables which we will be working on are mentioned below:
-- Restaurant ID	
-- Restaurant Name	
-- Country Code	
-- City	
-- Address	
-- Locality	
-- Cuisines	
-- Has Table booking	
-- Has Online delivery	
-- Is delivering now
-- Price range	
-- Aggregate rating	
-- Rating color	
-- Rating text	
-- Votes
+We have Black Friday Customer Data containing detailed information of purchase summary of various customers for selected high volume products. The dataset also contains customer demographics are other variables mentioned below:
+- User_ID	
+- Product_ID	
+- Gender	
+- Age	
+- Occupation	
+- City_Category	
+- Stay_In_Current_City_Years	
+- Marital_Status	
+- Product_Category_1	
+- Product_Category_2	
+- Product_Category_3
+- Purchase
+
+
 
 ## Objective:
 - Perform Exploratory Data Analysis and Feature Engineering
@@ -26,6 +25,12 @@ We have Zomata Data containing detailed information of partenered restaurants in
 - Jupyter Notebook
 
 ## Tasks:
+
+Append test data:, The basic measures of descriptive statistics:, Dropping "User_ID" column:, Handling categorical feature 'Gender':, Handling Categorical feature age:, Second technique through LABEL ENCODING:, Fixing categorical variable city_category:, Combining the df_city and df:, Dropping city_category feature:, Checking the missing values:, Replacing missing values:, Replacing the missing values with mode, Converting object into integers in Stay_In_Current_City_Years:, Visualiaztion diagram of AGE vs PURCHASE: , Observation: 1.Purchasing of men is high then women. Visualization of purchase with occupation:, Finding the unique values present in occupation: Bar plot for product_category1, product_category2 and product_category3 vs purchase, Observation: Product_Category_1 is bought the most.
+
+
+
+
 - Checked the basic measures of descriptive statistics.
 - Checked missing values, missing values using.
 - Combined two dataframes w.r.t country code.
