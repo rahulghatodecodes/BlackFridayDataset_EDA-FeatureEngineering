@@ -15,8 +15,6 @@ We have Black Friday Customer Data containing detailed information of purchase s
 - Product_Category_3
 - Purchase
 
-
-
 ## Objective:
 - Perform Exploratory Data Analysis and Feature Engineering
 
@@ -25,28 +23,26 @@ We have Black Friday Customer Data containing detailed information of purchase s
 - Jupyter Notebook
 
 ## Tasks:
-
-Appended test data:, 
-Dropping "User_ID" column:, 
-Handling categorical feature 'Gender':, 
-Handling Categorical feature age:, 
-Second technique through LABEL ENCODING:, 
-Fixing categorical variable city_category:, 
-Combining the df_city and df:, 
-Dropping city_category feature:, 
-Checking the missing values:, 
-\Replacing the missing values with mode, 
-Converting object into integers in Stay_In_Current_City_Years:, 
- Finding the unique values present in occupation: Bar plot for product_category1, product_category2 and product_category3 vs purchase, Observation: Product_Category_1 is bought the most.
+- Appended test data.
+- Dropped "User_ID" & "city_category" column 
+- Handled categorical feature "Gender" and "age".
+- Used technique Label Encoding. 
+- Fixed categorical variable "city_category".
+- Combined the df_city and df.
+- Replaced the missing values with mode. 
+- Converted object into integers in "Stay_In_Current_City_Years".
 
 ## Findings:
-- The basic measures of descriptive statistics:, 
+- The basic measures of descriptive statistics.
+- The unique values present in "occupation".
 
 ## Visualizations:
-- Visualiaztion diagram of AGE vs PURCHASE: , 
-- Visualization of purchase with occupation:,
+- Bar plot of AGE vs PURCHASE. 
+- Bar plot of purchase with occupation.
+- Bar plot for product_category1, product_category2 and product_category3 vs purchase.
 
 ## Observations:
 - Purchasing of men is higher than women. 
+- "Product_Category_1" is bought the most.
 
 
